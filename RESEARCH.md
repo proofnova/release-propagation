@@ -16,7 +16,7 @@ Problem: 워크스페이스 패키지의 버전과 의존 범위 변경을 전�
 
 1. Same functionality already exists? Yes, underlying domain operations are established. An existing tool configured for this exact task may remove the need for a separate project.
 2. Existing configuration enough? Plausibly; no exhaustive plugin/configuration execution was completed. Check the nearest tool before expanding this prototype.
-3. Another name? Search terms include Release propagation planner; release propagation; 워크스페이스 패키지의 버전과 의존 범위 변경을 전이 관계에 맞춰 계획한다.; changesets; nx. Existing algorithm names appear in the method above.
+3. Another name? Search terms include monorepo version dependency range release propagation changesets. Existing algorithm names appear in the method above.
 4. Important user difference? Fewer runtime dependencies and a validated tool boundary are concrete; actual adoption and time savings remain unmeasured.
 5. Added complexity? Structured JSON is a real setup cost. A browser example and exact field errors reduce it, but do not erase it.
 6. Retraction evidence? An existing setup with the same access/contract or a failed invariant/performance comparison removes the claimed practical advantage.
